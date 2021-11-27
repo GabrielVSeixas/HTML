@@ -16,7 +16,7 @@
 	<title>Tolle Mobi</title>
 
 	<!-- Standard Favicon -->
-	<link rel="icon" type="image/x-icon" href="assets/images//favicon.ico" />
+	<link rel="icon" type="image/x-icon" href="assets/images/logotm.png" />
 	
 	<!-- For iPhone 4 Retina display: -->
 	<link rel="apple-touch-icon-precomposed" href="assets/images//apple-touch-icon-114x114-precomposed.png">
@@ -67,7 +67,7 @@
 				<!-- Container -->
 				<div class="container">
 					<!--a class="navbar-brand" href="index.html">Max City</a-->
-					<a class="image-logo navbar-brand" href="index.html"><img src="assets/images/logo.png" alt="Logo" /></a>
+					<a class="image-logo navbar-brand" href="index.html"><img src="assets/images/logotm.png" alt="Logo" /></a>
 					<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="true" aria-label="Toggle navigation">
 						<i class="fa fa-bars"></i>
 					</button>
@@ -76,20 +76,12 @@
 							<li class="active dropdown">
 								<i class="ddl-switch fa fa-angle-down"></i>
 								<a class="nav-link dropdown-toggle" title="Home" href="index.html">Início</a>
-								<ul class="dropdown-menu">
-									<li><a class="dropdown-item" href="index.html" title="Homepage 1">Homepage 1</a></li>
-									<li><a class="dropdown-item" href="index-2.html" title="Homepage 2">Homepage 2</a></li>
-								</ul>
 							</li>
 							<li><a class="nav-link" title="About Us" href="about.html">Sobre nós</a></li>
-							<li><a class="nav-link" title="Services" href="services.html">Services</a></li>
+							<li><a class="nav-link" title="Services" href="services.html">Serviços</a></li>
 							<li class="dropdown">
 								<a href="#" class="nav-link dropdown-toggle" title="Pages" role="button" aria-haspopup="true" aria-expanded="false">Suporte</a>
 								<i class="ddl-switch fa fa-angle-down"></i>
-								<ul class="dropdown-menu">
-									<li><a class="dropdown-item" title="Events" href="faq.html">F.A.Q</a></li>
-									<li><a class="dropdown-item" title="404" href="404.html">404</a></li>
-								</ul>
 							</li>
 							
 							<li><a class="nav-link" title="Contact" href="contact-us.html">Contato</a></li>
@@ -385,16 +377,15 @@
 							<div class="about-content">
 								<!-- Section Header -->
 								<div class="section-header section-header-left">
-									<h6>who we are</h6>
-									<h3><b>about</b> us</h3>
+									<h3><b>Sobre</b> Nós</h3>
 								</div><!-- Section Header -->
 								<p><i>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</i></p>
 								<p>Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiamtorquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam</p>
-								<a href="#" title="Read More">Read More</a>
+								<a href="#" title="Read More">Saiba Mais</a>
 							</div>
 						</div>
 						<div class="col-lg-6 about-img">
-							<img src="assets/images/about-img.png" alt="About" />
+							<img src="assets/images/sobre_nos.png" alt="About" />
 						</div>
 					</div><!-- Row /- -->
 				</div><!-- Container /- -->				
