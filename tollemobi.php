@@ -67,7 +67,7 @@
 				<!-- Container -->
 				<div class="container">
 					<!--a class="navbar-brand" href="index.html">Max City</a-->
-					<a class="image-logo navbar-brand" href="index.html"><img src="assets/images/logotm.png" alt="Logo" /></a>
+					<a class="image-logo navbar-brand" href="tollemobi.php"><img src="assets/images/logotm.png" alt="Logo" /></a>
 					<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="true" aria-label="Toggle navigation">
 						<i class="fa fa-bars"></i>
 					</button>
@@ -77,7 +77,7 @@
 								<i class="ddl-switch fa fa-angle-down"></i>
 								<a class="nav-link dropdown-toggle" title="Home" href="index.html">Início</a>
 							</li>
-							<li><a class="nav-link" title="About Us" href="about.html">Sobre nós</a></li>
+							<li><a class="nav-link" title="About Us" href="n">Sobre nós</a></li>
 							<li><a class="nav-link" title="Services" href="services.html">Serviços</a></li>
 							<li class="dropdown">
 								<a href="#" class="nav-link dropdown-toggle" title="Pages" role="button" aria-haspopup="true" aria-expanded="false">Suporte</a>
@@ -146,7 +146,7 @@
 									data-paddingright="[0,0,0,0]"
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
-									style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 28px; font-weight: 700; color: #ffffff; letter-spacing: 2.4px;font-family:playfairdisplay;text-transform:uppercase;">Quick and Reliable <span>Service!</span> 
+									style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 28px; font-weight: 700; color: #ffffff; letter-spacing: 2.4px;font-family:playfairdisplay;text-transform:uppercase;">Serviço rápido e <span>Confiavel!</span> 
 								</div>
 
 								<!-- LAYER NR. 2 -->
@@ -200,7 +200,7 @@
 									data-paddingright="[31,31,31,31]"
 									data-paddingbottom="[13,13,13,13]"
 									data-paddingleft="[31,31,31,31]"
-									style="z-index: 8; white-space: nowrap; font-size: 13px; line-height: 18px; font-weight: 700; color: transparent; letter-spacing: 0.52px;font-family:Arial;border-color:rgba(0,0,0,1);border-radius:6px 6px 6px 6px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">BOOK NOW 
+									style="z-index: 8; white-space: nowrap; font-size: 13px; line-height: 18px; font-weight: 700; color: transparent; letter-spacing: 0.52px;font-family:Arial;border-color:rgba(0,0,0,1);border-radius:6px 6px 6px 6px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">BAIXE AGORA 
 								</div>
 							</li>
 							<!-- SLIDE  -->
@@ -279,7 +279,7 @@
 									data-paddingright="[31,31,31,31]"
 									data-paddingbottom="[13,13,13,13]"
 									data-paddingleft="[31,31,31,31]"
-									style="z-index: 8; white-space: nowrap; font-size: 13px; line-height: 18px; font-weight: 700; color: transparent; letter-spacing: 0.52px;font-family:Arial;border-color:rgba(0,0,0,1);border-radius:6px 6px 6px 6px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">BOOK NOW
+									style="z-index: 8; white-space: nowrap; font-size: 13px; line-height: 18px; font-weight: 700; color: transparent; letter-spacing: 0.52px;font-family:Arial;border-color:rgba(0,0,0,1);border-radius:6px 6px 6px 6px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">BAIXE AGORA
 								</div>
 							</li>
 							<!-- SLIDE  -->
@@ -358,7 +358,7 @@
 									data-paddingright="[31,31,31,31]"
 									data-paddingbottom="[13,13,13,13]"
 									data-paddingleft="[31,31,31,31]"
-									style="z-index: 8; white-space: nowrap; font-size: 13px; line-height: 18px; font-weight: 700; color: transparent; letter-spacing: 0.52px;font-family:Arial;border-color:rgba(0,0,0,1);border-radius:6px 6px 6px 6px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">BOOK NOW
+									style="z-index: 8; white-space: nowrap; font-size: 13px; line-height: 18px; font-weight: 700; color: transparent; letter-spacing: 0.52px;font-family:Arial;border-color:rgba(0,0,0,1);border-radius:6px 6px 6px 6px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">BAIXE AGORA
 								</div>
 							</li>
 						</ul>
@@ -377,7 +377,7 @@
 							<div class="about-content">
 								<!-- Section Header -->
 								<div class="section-header section-header-left">
-									<h3><b>Sobre</b> Nós</h3>
+									<h3><b>Sobre Nós</b></h3>
 								</div><!-- Section Header -->
 								<p><i>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</i></p>
 								<p>Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiamtorquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam</p>
@@ -912,7 +912,7 @@
 					<div class="callout-detail">
 						<h3>the great  cab offer <span>save $100</span> available now! Luxury car </h3>
 						<h6>CALL US : <a href="tel:18001234567">1800 123 4567</a></h6>
-						<a href="#" title="Book Now">Book Now</a>
+						<a href="#" title="Book Now">BAIXE AGORA</a>
 					</div>
 				</div><!-- Container /- -->
 			</div><!-- callout Section /- -->

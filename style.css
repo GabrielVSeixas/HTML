@@ -638,7 +638,7 @@ h1,h2,h3,h4,h5,h6,p,a,li,span {
     color: #f8c12c;
 }
 #taxi-1 .rev-btn.slide-btn {
-    background-color: #f8c12c !important;
+    background-color: #00AFC0 !important;
     color: #222 !important;
 }
 #taxi-1 .rev-btn.slide-btn:hover {
@@ -1633,6 +1633,10 @@ h1,h2,h3,h4,h5,h6,p,a,li,span {
 }
 .blog-box .entry-content > a:hover {
 	color: #f8c12c;
+}
+.logotm{
+	max-width: 100%;
+	height: 20px;
 }
 .blog-box.format-quote {
 	text-align: center;
