@@ -164,7 +164,7 @@
 									data-paddingright="[0,0,0,0]"
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
-									style="z-index: 6; white-space: nowrap; font-size: 13px; line-height: 28px; font-weight: 700; color: #f8c12c; letter-spacing: 0px;font-family:playfairdisplay;text-transform:uppercase;">Service with gps- based despach for speed 
+									style="z-index: 6; white-space: nowrap; font-size: 15px; line-height: 28px; font-weight: 700; color: white; letter-spacing: 0px;font-family:playfairdisplay;text-transform:uppercase;">Viaje com segurança! 
 								</div>
 
 								<!-- LAYER NR. 3 -->
@@ -182,7 +182,7 @@
 									data-paddingright="[0,0,0,0]"
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
-									style="z-index: 7; min-width: 770px; max-width: 770px; white-space: normal; font-size: 13px; line-height: 28px; font-weight: 400; color: #ffffff; letter-spacing: 0.52px;font-family:Arial;">Aenean sed justo tincidunt, vulputate nisi sit amet, rutrum ligula. Pellentesque dictuAenean sed justo tincidunt, vulputate nisi sit amet, rutrum ligula. Pellentesque dictum aliquam ornare. Sed elit lectusornare. Sed elit lectum aliquam ornare.
+									style="z-index: 7; min-width: 770px; max-width: 770px; white-space: normal; font-size: 15px; line-height: 28px; font-weight: 400; color: #ffffff; letter-spacing: 0.52px;font-family:Arial;">Nossos motoristas passam por uma checagem de histórico e uma avaliação constante. Notas baixas causam suspensão da plataforma.
 								</div>
 
 								<!-- LAYER NR. 4 -->
@@ -244,24 +244,6 @@
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
 									style="z-index: 6; white-space: nowrap; font-size: 13px; line-height: 28px; font-weight: 700; color: #f8c12c; letter-spacing: 0px;font-family:playfairdisplay;text-transform:uppercase;">Service with gps- based despach for speed 
-								</div>
-
-								<!-- LAYER NR. 7 -->
-								<div class="tp-caption tp-resizeme" id="slide-89-layer-4" 
-									data-x="['center','center','center','center']" data-hoffset="['0','0','1','-2']" 
-									data-y="['middle','middle','middle','middle']" data-voffset="['81','81','8','-5']" 
-									data-width="['770','770','736','436']"
-									data-height="['none','none','none','116']"
-									data-whitespace="normal"						 
-									data-type="text" 
-									data-responsive_offset="on" 
-									data-frames='[{"delay":10,"speed":2000,"frame":"0","from":"x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;","mask":"x:0px;y:0px;s:inherit;e:inherit;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","mask":"x:0;y:0;s:inherit;e:inherit;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['center','center','center','center']"
-									data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]"
-									data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]"
-									style="z-index: 7; min-width: 770px; max-width: 770px; white-space: normal; font-size: 13px; line-height: 28px; font-weight: 400; color: #ffffff; letter-spacing: 0.52px;font-family:Arial;">Aenean sed justo tincidunt, vulputate nisi sit amet, rutrum ligula. Pellentesque dictuAenean sed justo tincidunt, vulputate nisi sit amet, rutrum ligula. Pellentesque dictum aliquam ornare. Sed elit lectusornare. Sed elit lectum aliquam ornare.
 								</div>
 
 								<!-- LAYER NR. 8 -->
@@ -390,61 +372,53 @@
 					</div><!-- Row /- -->
 				</div><!-- Container /- -->				
 			</div><!-- About Section /- -->
-			
-			<!-- Book Taxi Section -->
-			<div class="book-taxi-section">
+		
+			<!-- What We Do Section -->
+			<div class="what-we-do-section">
 				<!-- Container -->
 				<div class="container">
 					<!-- Section Header -->
-					<div class="section-header section-header-white">
-						<h6>Choose your car</h6>
-						<h3><b>book taxi</b> now</h3>
+					<div class="section-header">
+						<h3><b>Nossos serviços</b> 
 					</div><!-- Section Header -->
-					<form class="row">
-						<div class="form-group col-lg-4 col-md-6">
-							<label>Name</label>
-							<input type="text" placeholder="Enter your phone number..." class="form-control" />
+					<div class="what-do-boxes">
+						<!-- Row -->
+						<div class="row">
+							<div class="col-md-6 what-do-box">
+								<div class="icon-content-box">
+									<i><img src="assets/images/what-do-icon-1.png" alt="Icon" /></i>
+									<h3>airport transportation</h3>
+									<p>Duis tincidunt ornare semper. Phasellus velit purus, maximus sed leo eu, porta aliquet sapienlibero.</p>
+								</div>
+							</div>
+							<div class="col-md-6 what-do-box">
+								<div class="icon-content-box">
+									<i><img src="assets/images/what-do-icon-2.png" alt="Icon" /></i>
+									<h3>luxury taxi service</h3>
+									<p>Duis tincidunt ornare semeper. Phasllus velit purus, maximus sed leo eu, porta aliquet sapienlibero.</p>
+								</div>
+							</div>
+							<div class="col-md-6 what-do-box">
+								<div class="icon-content-box">
+									<i><img src="assets/images/what-do-icon-3.png" alt="Icon" /></i>
+									<h3>Home Pick Up</h3>
+									<p>Duis tincidunt ornare semper. Phasellus velit purus, maximus sed leo eu, porta aliquet sapienlibero.</p>
+								</div>
+							</div>
+							<div class="col-md-6 what-do-box">
+								<div class="icon-content-box">
+									<i><img src="assets/images/what-do-icon-4.png" alt="Icon" /></i>
+									<h3>tour package trips</h3>
+									<p>Duis tincidunt ornare semper. Phasellus velit purus, maximus sed leo eu, porta aliquet sapienlibero.</p>
+								</div>
+							</div>
+						</div><!-- Row /- -->
+						<div class="img-block">
+							<img src="assets/images/what-we-do-img.png" alt="What We Do" />
 						</div>
-						<div class="form-group col-lg-4 col-md-6">
-							<label>Phone number</label>
-							<input type="text" placeholder="+(01) xxx - xxx - xx" class="form-control" />
-						</div>
-						<div class="form-group col-lg-4 col-md-6">
-							<label>From</label>
-							<input type="text" placeholder="Starting palce" class="form-control" />
-						</div>
-						<div class="form-group col-lg-5 col-md-6 des-to">
-							<label>to</label>
-							<input type="text" placeholder="Destination" class="form-control" />
-							<span>-</span>
-							<input type="text" placeholder="HH" class="form-control time" />
-							<span>:</span>
-							<input type="text" placeholder="MM" class="form-control time" />
-						</div>
-						<div class="form-group col-lg-3 col-md-6">
-							<label>Passenger</label>
-							<input type="text" placeholder="3" class="form-control" />
-						</div>
-						<div class="form-group col-lg-4 col-md-6">
-							<label>CLASS</label>
-							<select class="form-control">
-								<option>Business</option>
-								<option>First</option>
-								<option>Second</option>
-								<option>Third</option>
-							</select>
-						</div>
-						<div class="form-group col-12 car-type">
-							<label>car type</label>
-							<span>Convertible <input type="checkbox" /></span>
-							<span>Vans <input type="checkbox" /></span>
-							<span>Luxury <input type="checkbox" /></span>
-							<span>Cars <input type="checkbox" /></span>
-							<span><input type="submit" value="BOOK YOUR TRIP" /></span>
-						</div>
-					</form>
+					</div>
 				</div><!-- Container /- -->
-			</div><!-- Book Taxi Section /- -->
+			</div><!-- What We Do Section /- -->
 			
 			<!-- Choose Section -->
 			<div class="choose-section">
@@ -1215,10 +1189,9 @@
 						<!-- Widget : Info -->
 						<aside class="widget widget_info">
 							<h3 class="widget-title">contato</h3>
-							<p>You may contact us during working timing </p>
-							<p><i class="icon icon-Phone2"></i> Tel : <a href="tel:2345678190">1234_5678_190</a></p>
+							<p><i class="icon icon-Phone2"></i> Tel : <a href="tel:2345678190">(66) 9691-6027</a></p>
 							<p><i class="icon icon-Mail"></i> Email : <a href="mailto:info@example.com">Info@example.com</a></p>
-							<p><i class="icon icon-Time"></i> Working Hours : 24 hours</p>
+							<p><i class="icon icon-Time"></i>Horário de funcionamento : 24 horas</p>
 							
 							
 					</div>

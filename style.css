@@ -635,7 +635,7 @@ h1,h2,h3,h4,h5,h6,p,a,li,span {
   	z-index: 1;
 }
 #taxi-1 .silde-title span {
-    color: #f8c12c;
+    color: #00C9DD;
 }
 #taxi-1 .rev-btn.slide-btn {
     background-color: #00AFC0 !important;
@@ -827,7 +827,7 @@ h1,h2,h3,h4,h5,h6,p,a,li,span {
 	width: 100%;
 }
 .what-we-do-section .icon-content-box i {
-	border: 2px solid #f8c12c;
+	border: 2px solid #00C9DD;
 	border-radius: 50%;
 	position: absolute;
 	color: #252525;
