@@ -1048,11 +1048,10 @@
 						<aside id="pages" class="widget widget_pages">
 							<h3 class="widget-title">Nossos Serviços</h3>
 							<ul>
-								<li class="page_item"><a href="#">Luxury Taxi servic</a></li>
-								<li class="page_item"><a href="#">Luxury Tour cabs</a></li>
-								<li class="page_item"><a href="#">Sightseeing package trips</a></li>
-								<li class="page_item"><a href="#">Quick and reliable service</a></li>
-								<li class="page_item"><a href="#">Automated Billing</a></li>
+								<li class="page_item"><a href="#">TM Clássico</a></li>
+								<li class="page_item"><a href="#">TM Moto</a></li>
+								<li class="page_item"><a href="#">TM Mercado</a></li>
+								<li class="page_item"><a href="#">TM Mulher</a></li>
 							</ul>
 						</aside><!-- Widget: Pages /- -->
 					</div>
