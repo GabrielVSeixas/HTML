@@ -448,7 +448,6 @@
 														<span><i class="fa fa-user"></i> 3 Passengers</span>
 														<span><i class="fa fa-clock-o"></i> 6.5 / 100 Mpg</span>
 													</div>
-													<a href="#" title="Select Taxi">Select Taxi</a>
 												</div>
 												<div class="col-lg-5 choose-img">
 													<img src="assets/images/motorista1.png" alt="Image" />
@@ -779,7 +778,7 @@
 								There's nothing can hold Me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long.</p>
 								<p>Brady Bunch. Goodbye gray sky I hold you. I hold you.<br>
 								There's nothing can hold Me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long.</p>
-								<h5>Download Now</h5>
+								<h5>Baixe agora</h5>
 								<p>There's nothing can hold Me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long.</p>
 								<a href="#"><img src="assets/images/play-store.png" alt="Play Store" /></a>
 								<a href="#"><img src="assets/images/app-store.png" alt="App Store" /></a>
