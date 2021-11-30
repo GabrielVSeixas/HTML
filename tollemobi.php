@@ -1041,8 +1041,7 @@
 							</ul>
 						</aside><!-- Widget : About /- -->
 					</div>
-					<div class="col-lg-3 col-md-6">
-					</div>
+					
 					<div class="col-lg-3 col-md-6">
 						<!-- Widget: Pages -->
 						<aside id="pages" class="widget widget_pages">
