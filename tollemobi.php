@@ -586,15 +586,14 @@
 							<div class="mobile-app">
 								<!-- Section Header -->
 								<div class="section-header section-header-left">
-									<h6>get our</h6>
-									<h3><b>mobile</b> app</h3>
+									<h6>Baixe já o App </h6>
+									<h3><b>Tolle Mobi</b></h3>
 								</div><!-- Section Header /- -->
 								<p>Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch. Goodbye gray sky I hold you. I hold you.<br>
 								There's nothing can hold Me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long.</p>
 								<p>Brady Bunch. Goodbye gray sky I hold you. I hold you.<br>
 								There's nothing can hold Me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long.</p>
-								<h5>Baixe agora</h5>
-								<p>There's nothing can hold Me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long.</p>
+								<h5><b>Faça sua primeira corrida!</b></h5>
 								<a href="#"><img src="assets/images/play-store.png" alt="Play Store" /></a>
 								<a href="#"><img src="assets/images/app-store.png" alt="App Store" /></a>
 							</div>

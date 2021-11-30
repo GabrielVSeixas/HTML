@@ -1583,7 +1583,16 @@ span {
 /* - Callout Section */
 
 .callout-section {
-    background-image: url("assets/images/callout-bg.jpg");
+    background-image: url("assets/images/motorista2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 82px;
+    padding-top: 86px;
+    position: relative;
+}
+
+.callout-section2 {
+    background-image: url("assets/images/motorista2.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 82px;
@@ -1619,12 +1628,12 @@ span {
 }
 
 .callout-section .callout-detail h3>span {
-    color: #f8c12c;
+    color: #00CBDF;
     font-style: italic;
 }
 
 .callout-section .callout-detail>h6 {
-    color: #f8c12c;
+    color: #00CBDF;
     font-family: 'Playfair Display', serif;
     font-size: 18px;
     font-weight: bold;
@@ -1640,7 +1649,7 @@ span {
 }
 
 .callout-section .callout-detail>a {
-    border: 2px solid #f8c12c;
+    border: 2px solid #00CBDF;
     color: #fff;
     display: inline-block;
     padding: 7px 27px;
@@ -1657,7 +1666,7 @@ span {
 }
 
 .callout-section .callout-detail>a:hover {
-    background-color: #f8c12c;
+    background-color: #00CBDF;
     border-color: transparent;
 }
 
