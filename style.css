@@ -1029,7 +1029,7 @@ span {
 }
 
 .what-we-do-section .icon-content-box:hover i {
-    color: #f7ca18;
+    color: #00CBDF;
 }
 
 .what-we-do-section .icon-content-box>h3 {
@@ -1155,7 +1155,7 @@ span {
 }
 
 .book-taxi-section form .form-group.car-type span input[type="submit"] {
-    background-color: #f8c12c;
+    background-color: #00CBDF;
     border: none;
     border-radius: 4px;
     color: #000000;
@@ -1272,7 +1272,7 @@ span {
 }
 
 .advertising-section .image-content-box>span {
-    background-color: #f8c12c;
+    background-color: #00CBDF;
     border: solid 1px #fff;
     border-radius: 50%;
     font-size: 18px;
@@ -1299,7 +1299,7 @@ span {
 }
 
 .advertising-section .image-content-box>h4::before {
-    background-color: #f8c12c;
+    background-color: #00CBDF;
     height: 3px;
     content: "";
     position: absolute;
@@ -1331,7 +1331,7 @@ span {
 }
 
 .advertising-section .cnt-detail>a {
-    background-color: #f8c12c;
+    background-color: #00CBDF;
     color: #000000;
     font-size: 13px;
     font-weight: bold;
@@ -1401,7 +1401,7 @@ span {
     content: "\f10d";
     font-size: 24px;
     font-family: "FontAwesome";
-    color: #f8c12c;
+    color: #00CBDF;
     line-height: 1;
     text-align: left;
     position: absolute;
@@ -1413,7 +1413,7 @@ span {
     content: "\f10e";
     font-size: 24px;
     font-family: "FontAwesome";
-    color: #f8c12c;
+    color: #00CBDF;
     line-height: 1;
     top: 13px;
     position: relative;
@@ -1421,7 +1421,7 @@ span {
 }
 
 .testimonial-section .testi-content-block>div>p>span {
-    color: #e4af3a;
+    color: #00CBDF;
 }
 
 .testimonial-section .testi-img-block {

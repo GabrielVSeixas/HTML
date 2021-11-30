@@ -258,10 +258,11 @@
 												<div class="col-lg-7">
 													<h3> Conheça as vantagens</h3>
 													<br>
-													<div>class=  alt=""><img src="assets\images\combustivel.png"><p>Tenha de descontos em postos de combustível</p>
-													</div>
+													<p>Tenha de descontos em postos de combustível</p>
 													<p>Pague menos em lava-jatos</p>
 													<p>Descontos na manutençao do seu veículo</p>
+													<p>Faça uma renda extra</p>
+													<p>Seja seu próprio chefe</p>
 												</div>
 												<div class="col-lg-5 choose-img">
 													<img src="assets/images/motorista1.png" alt="Image" />
