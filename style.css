@@ -124,8 +124,8 @@ span {
 
 .load-complete .line-scale>div {
     display: inline-block;
-    border-color: #f8c12c #f8c12c transparent;
-    background-color: #f8c12c;
+    border-color: #00CBDF #00CBDF transparent;
+    background-color: #00CBDF;
 }
 
 .load-complete {
@@ -4913,7 +4913,7 @@ span {
 }
 
 .widget_about>ul>li>a {
-    border: 1px solid #f8c12c;
+    border: 1px solid #00CBDF;
     border-radius: 50%;
     width: 34px;
     height: 34px;
@@ -4924,7 +4924,7 @@ span {
 }
 
 .widget_about>ul>li>a:hover {
-    background-color: #f8c12c;
+    background-color: #00CBDF;
     border-color: transparent;
 }
 
@@ -5022,7 +5022,7 @@ span {
 }
 
 .footer-widget .widget-title::before {
-    background-color: #f8c12c;
+    background-color: #00CBDF;
     content: "";
     position: absolute;
     left: 0;
@@ -5075,7 +5075,7 @@ span {
 }
 
 .footer-widget .widget_pages ul li a::before {
-    color: #f8c12c;
+    color: #00CBDF;
 }
 
 .footer-widget .widget_info>p {

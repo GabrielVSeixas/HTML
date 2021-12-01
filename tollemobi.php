@@ -84,7 +84,7 @@
 								<i class="ddl-switch fa fa-angle-down"></i>
 							</li>
 							
-							<li><a class="nav-link" title="Contact" href="contact-us.html">Contato</a></li>
+							<li><a class="nav-link" title="Contact" href="#contato">Contato</a></li>
 						</ul>
 					</div>
 					<div class="menu-search">
@@ -870,7 +870,7 @@
 					</div>
 					<div class="col-lg-3 col-md-6">
 						<!-- Widget : Info -->
-						<aside class="widget widget_info">
+						<aside class="widget widget_info"id="contato">
 							<h3 class="widget-title">contato</h3>
 							<p><i class="icon icon-Phone2"></i> Tel : <a href="tel:2345678190">(66) 9691-6027</a></p>
 							<p><i class="icon icon-Mail"></i> Email : <a href="mailto:info@example.com">Info@example.com</a></p>
