@@ -80,7 +80,7 @@
 							<li><a class="nav-link" title="About Us" href="#sobre">Sobre nós</a></li>
 							<li><a class="nav-link" title="Services" href="#nossos">Serviços</a></li>
 							<li class="dropdown">
-								<a href="#" class="nav-link dropdown-toggle" title="Pages" role="button" aria-haspopup="true" aria-expanded="false">Suporte</a>
+								<a href="#suporte" class="nav-link dropdown-toggle" title="Pages" role="button" aria-haspopup="true" aria-expanded="false">Suporte</a>
 								<i class="ddl-switch fa fa-angle-down"></i>
 							</li>
 							
@@ -711,127 +711,41 @@
 			<div class="miscellaneous-section">
 				<!-- Container -->
 				<div class="container">
-					<!-- Section Header -->
-					<div class="section-header">
-						<h6>Our Blogs & Fags</h6>
-						<h3><b>Latest news</b> & FAQS</h3>
-					</div><!-- Section Header /- -->
-					<!-- Row -->
-					<div class="row">
-						<div class="col-lg-6 col-12">
-							<!-- FAQ Block -->
-							<div class="faq-block">
-								<div id="book-accordion" role="tablist">
-									<div class="card">
-										<div class="card-header" role="tab" id="book-1">
-											<h5 class="mb-0">
-												<a data-toggle="collapse" href="#book-collapse-1" aria-expanded="true" aria-controls="book-collapse-1">For long drive how much charge?</a>
-											</h5>
-										</div>
-										<div id="book-collapse-1" class="collapse show" role="tabpanel" aria-labelledby="book-1" data-parent="#book-accordion">
-											<div class="card-body">
-												<img src="assets/images/faq-1.png" alt="FAQ" />
-												<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected....</p>
-											</div>
-										</div>
-									</div>
-									<div class="card">
-										<div class="card-header" role="tab" id="book-2">
-											<h5 class="mb-0">
-												<a class="collapsed" data-toggle="collapse" href="#book-collapse-2" aria-expanded="false" aria-controls="book-collapse-2">How do I book for a ride with Your Taxi?</a>
-											</h5>
-										</div>
-										<div id="book-collapse-2" class="collapse" role="tabpanel" aria-labelledby="book-2" data-parent="#book-accordion">
-											<div class="card-body">
-												<img src="assets/images/faq-1.png" alt="FAQ" />
-												<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected....</p>
-											</div>
-										</div>
-									</div>
-									<div class="card">
-										<div class="card-header" role="tab" id="book-3">
-											<h5 class="mb-0">
-												<a class="collapsed" data-toggle="collapse" href="#book-collapse-3" aria-expanded="false" aria-controls="book-collapse-3">Can I drive the vehicle out of State?</a>
-											</h5>
-										</div>
-										<div id="book-collapse-3" class="collapse" role="tabpanel" aria-labelledby="book-3" data-parent="#book-accordion">
-											<div class="card-body">
-												<img src="assets/images/faq-1.png" alt="FAQ" />
-												<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected....</p>
-											</div>
-										</div>
-									</div>
-									<div class="card">
-										<div class="card-header" role="tab" id="book-4">
-											<h5 class="mb-0">
-												<a class="collapsed" data-toggle="collapse" href="#book-collapse-4" aria-expanded="false" aria-controls="book-collapse-4">Are there any hidden charges?</a>
-											</h5>
-										</div>
-										<div id="book-collapse-4" class="collapse" role="tabpanel" aria-labelledby="book-4" data-parent="#book-accordion">
-											<div class="card-body">
-												<img src="assets/images/faq-1.png" alt="FAQ" />
-												<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected....</p>
-											</div>
-										</div>
-									</div>
-									<div class="card">
-										<div class="card-header" role="tab" id="book-5">
-											<h5 class="mb-0">
-												<a class="collapsed" data-toggle="collapse" href="#book-collapse-5" aria-expanded="false" aria-controls="book-collapse-5">Can I do a One Way Rental?</a>
-											</h5>
-										</div>
-										<div id="book-collapse-5" class="collapse" role="tabpanel" aria-labelledby="book-5" data-parent="#book-accordion">
-											<div class="card-body">
-												<img src="assets/images/faq-1.png" alt="FAQ">
-												<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected....</p>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div><!-- FAQ Block /- -->
-						</div>
-						<div class="col-lg-6 col-12">
-							<!-- Latest Blog -->
-							<div class="latest-blog">
-								<!-- Blog Box -->
-								<div class="blog-box">
-									<div class="entry-cover">
-										<a href="#"><img src="assets/images/latest-blog-1.jpg" alt="Latest Blog" /></a>
-									</div>
-									<div class="entry-content">
-										<h4 class="entry-title"><a href="#">a reliable way to travel</a></h4>
-										<p>Take a step that is new. We've a loveable space that needs your face threes company that needs your face threes company</p>
-										<div class="entry-footer">
-											<span><a href="#">Aug 24 2017</a></span>
-											<span><a href="#">6 Comments</a></span>
-											<span>By: <a href="#">Adams</a></span>
-										</div>
-									</div>
-								</div><!-- Blog Box /- -->
-								<!-- Blog Box -->
-								<div class="blog-box">
-									<div class="entry-cover">
-										<a href="#"><img src="assets/images/latest-blog-2.jpg" alt="Latest Blog" /></a>
-									</div>
-									<div class="entry-content">
-										<h4 class="entry-title"><a href="#">well trained drivers on duty</a></h4>
-										<p>Take a step that is new. We've a loveable space that needs your face threes company that needs your face threes company</p>
-										<div class="entry-footer">
-											<span><a href="#">Aug 24 2017</a></span>
-											<span><a href="#">6 Comments</a></span>
-											<span>By: <a href="#">Adams</a></span>
-										</div>
-									</div>
-								</div><!-- Blog Box /- -->
-							</div><!-- Latest Blog /- -->
-						</div>
-					</div><!-- Row /- -->
-				</div><!-- Container /- -->
-			</div><!-- Miscellaneous Section /- -->
+					<!--begin col-md-6 -->
+					<div class="col-md-6" id="suporte">
+
+		<h3>FALE CONOSCO</h3 id="suporte">
+ 		<br>
+
+		<!--begin success message -->
+		<p class="contact_success_box" style="display:none;">Recebemos sua mensagem e em breve entrateremos em contato.
+		Obrigado!</p>
+		<!--end success message -->
+
+		<!--begin contact form -->
+		<form id="contact-form" class="contact"  action="javascript:void(0)"  method="post">
 		
-		</main>
-		
-	</div>
+
+		<input class="contact-input white-input" required="" name="contact_names" id="nome"   placeholder="Nome Completo*"
+			type="text">
+
+		<input class="contact-input white-input" required="" name="contact_email" id="email"  placeholder="Email*"
+			type="email">
+
+		<input class="contact-input white-input" required=""  name="contact_phone" id="celular"  placeholder="Celular*" type="text">
+
+		<textarea class="contact-commnent white-input" rows="2" cols="20" name="contact_message" id="texto" 
+			placeholder="Sua mensagem..."></textarea>
+
+		<input value="Enviar" id="submit-button" class="contact-submit" type="button">
+
+		</form>
+		<br>
+		<br>
+		<!--end contact form -->
+
+		</div>
+		<!--end col-md-6 -->
 	
 	<!-- Footer Section -->
 	<div class="footer-section">
