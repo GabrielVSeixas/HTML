@@ -605,28 +605,28 @@
 										<div class="counter-box">
 											<i><img src="assets/images/counter-icon-1.png" alt="Counter" /></i>
 											<span id="statistics_1_count-1" data-fact="1600"></span>
-											<h5>Successful Drives</h5>
+											<h5>Motoristas cadastrados</h5>
 										</div>
 									</div>
 									<div class="col-6">
 										<div class="counter-box">
 											<i><img src="assets/images/counter-icon-2.png" alt="Counter" /></i>
 											<span id="statistics_1_count-2" data-fact="1200"></span>
-											<h5>Happy Customers</h5>
+											<h5>Usuários</h5>
 										</div>
 									</div>
 									<div class="col-6">
 										<div class="counter-box">
 											<i><img src="assets/images/counter-icon-3.png" alt="Counter" /></i>
 											<span id="statistics_1_count-3" data-fact="450"></span>
-											<h5>Long Drives</h5>
+											<h5>Corridas realizadas</h5>
 										</div>
 									</div>
 									<div class="col-6">
 										<div class="counter-box">
 											<i><img src="assets/images/counter-icon-4.png" alt="Counter" /></i>
 											<span id="statistics_1_count-4" data-fact="218"></span>
-											<h5>Cities Covered</h5>
+											<h5>Cidades</h5>
 										</div>
 									</div>
 								</div>
@@ -726,20 +726,26 @@
 		<form id="contact-form" class="contact"  action="javascript:void(0)"  method="post">
 		
 
-		<input class="contact-input white-input" required="" name="contact_names" id="nome"   placeholder="Nome Completo*"
+			<input class="contact-input white-input" required="" name="contact_names" id="nome"   placeholder="Nome Completo*"
 			type="text">
 
-		<input class="contact-input white-input" required="" name="contact_email" id="email"  placeholder="Email*"
+			<input class="contact-input white-input" required="" name="contact_email" id="email"  placeholder="Email*"
 			type="email">
 
-		<input class="contact-input white-input" required=""  name="contact_phone" id="celular"  placeholder="Celular*" type="text">
+			<input class="contact-input white-input" required=""  name="contact_phone" id="celular"  placeholder="Celular*" type="text">
 
-		<textarea class="contact-commnent white-input" rows="2" cols="20" name="contact_message" id="texto" 
+			<textarea class="contact-commnent white-input" rows="2" cols="20" name="contact_message" id="texto" 
 			placeholder="Sua mensagem..."></textarea>
 
-		<input value="Enviar" id="submit-button" class="contact-submit" type="button">
+			<input value="Enviar" id="submit-button" class="contact-submit" type="button">
 
 		</form>
+		<!--begin col-md-6 -->
+		<div class="col-md-6 responsive-top-margins">
+
+			<img src="assets\images\suport.JPG" Style="margin-top: 30px; width: 100%;" class="width-100 responsive-top-margins" alt="pic">
+		</div>
+<!--end col-md-6 -->
 		<br>
 		<br>
 		<!--end contact form -->
