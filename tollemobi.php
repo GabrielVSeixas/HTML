@@ -65,9 +65,9 @@
 		<div class="menu-block">
 			<nav class="navbar ownavigation navbar-expand-lg">
 				<!-- Container -->
-				<div class="container">
+				<div class="container retangulo-roxo">
 					<!--a class="navbar-brand" href="index.html">Max City</a-->
-					<a class="image-logo navbar-brand" href="tollemobi.php"><img src="assets/images/logotm.png" alt="Logo" /></a>
+					<a class="quadrado-branco image-logo navbar-brand" href="tollemobi.php"><img class="imglogo" src="assets/images/logotm.png" alt="Logo" /></a>
 					<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="true" aria-label="Toggle navigation">
 						<i class="fa fa-bars"></i>
 					</button>
@@ -578,7 +578,7 @@
 			</div><!-- callout Section /- -->
 			
 			<!-- App Counter Section -->
-			<div class="app-counter-section">
+			<div class="div-padding app-counter-section">
 				<!-- Container -->
 				<div class="container">
 					<div class="row justify-content-end">
@@ -706,44 +706,43 @@
 					</div>
 				</div><!-- Container /- -->
 			</div><!-- Testimonial Section /- -->
-			
+		<div>	
 			<!-- Miscellaneous Section -->
 			<div class="miscellaneous-section">
 				<!-- Container -->
-				<div class="container">
 					<!--begin col-md-6 -->
-					<div class="col-md-6" id="suporte">
-
-		<h3>FALE CONOSCO</h3 id="suporte">
- 		<br>
-
-		<!--begin success message -->
-		<p class="contact_success_box" style="display:none;">Recebemos sua mensagem e em breve entrateremos em contato.
-		Obrigado!</p>
-		<!--end success message -->
-
-		<!--begin contact form -->
-		<form id="contact-form" class="contact"  action="javascript:void(0)"  method="post">
+					<div class="col-md-6 div-grid" id="suporte">
 		
+			<h3>FALE CONOSCO</h3 id="suporte" class="fale-conoscoh3">
+			<br>
 
-			<input class="contact-input white-input" required="" name="contact_names" id="nome"   placeholder="Nome Completo*"
-			type="text">
+			<!--begin success message -->
+			<p class="contact_success_box" style="display:none;">Recebemos sua mensagem e em breve entrateremos em contato.
+			Obrigado!</p>
+			<!--end success message -->
 
-			<input class="contact-input white-input" required="" name="contact_email" id="email"  placeholder="Email*"
-			type="email">
+			<!--begin contact form -->
+			<form id="contact-form" class="div-imput-suport contact"  action="javascript:void(0)"  method="post">
+			
 
-			<input class="contact-input white-input" required=""  name="contact_phone" id="celular"  placeholder="Celular*" type="text">
+				<input class="contact-input white-input" required="" name="contact_names" id="nome"   placeholder="Nome Completo*"
+				type="text">
 
-			<textarea class="contact-commnent white-input" rows="2" cols="20" name="contact_message" id="texto" 
-			placeholder="Sua mensagem..."></textarea>
+				<input class="contact-input white-input" required="" name="contact_email" id="email"  placeholder="Email*"
+				type="email">
 
-			<input value="Enviar" id="submit-button" class="contact-submit" type="button">
+				<input class="contact-input white-input" required=""  name="contact_phone" id="celular"  placeholder="Celular*" type="text">
 
-		</form>
-		<!--begin col-md-6 -->
-		<div class="col-md-6 responsive-top-margins">
+				<textarea class="contact-commnent white-input" rows="2" cols="20" name="contact_message" id="texto" 
+				placeholder="Sua mensagem..."></textarea>
 
-			<img src="assets\images\suport.JPG" Style="margin-top: 30px; width: 100%;" class="width-100 responsive-top-margins" alt="pic">
+				<input value="Enviar" id="submit-button" class="contact-submit" type="button">
+
+			</form>
+			<!--begin col-md-6 -->
+			<div class="col-md-6 responsive-top-margins div-da-imagem">
+
+				<img src="assets\images\suport.JPG"  class="div-imgsuporte width-100 responsive-top-margins" alt="pic">
 		</div>
 <!--end col-md-6 -->
 		<br>
@@ -754,11 +753,11 @@
 		<!--end col-md-6 -->
 	
 	<!-- Footer Section -->
-	<div class="footer-section">
+	<div class="div-borda footer-section">
 		<!-- Footer Widget -->
 		<div class="footer-widget">
 			<!-- Container -->
-			<div class="container">			
+			<div class="container" style="padding: 0px;">			
 				<!-- Row -->
 				<div class="row">
 					<div class="col-lg-3 col-md-6">

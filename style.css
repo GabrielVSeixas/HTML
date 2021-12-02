@@ -485,8 +485,8 @@ span {
 
 .footer-section .footer-widget {
     background-color: #000000;
-    padding-bottom: 60px;
-    padding-top: 77px;
+    padding-bottom: 10px;
+    padding-top: 40px;
 }
 
 .footer-section .container {
@@ -985,8 +985,7 @@ span {
 /* - What We Do Section */
 
 .what-we-do-section {
-    padding-top: 146px;
-    padding-bottom: 146px;
+    padding-top: 50px;
 }
 
 .what-we-do-section .section-header {
@@ -1679,6 +1678,10 @@ span {
     position: relative;
 }
 
+.div-padding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 .mobile-app>p {
     font-size: 13px;
     color: #888888;
@@ -2459,9 +2462,10 @@ span {
 
 .miscellaneous-section {
     padding-top: 145px;
-    padding-bottom: 140px;
 }
-
+.div-borda{
+    max-width: 100% !important;
+}
 .miscellaneous-section .section-header {
     margin-bottom: 51px;
 }
@@ -2546,11 +2550,27 @@ span {
     font-weight: 400;
     letter-spacing: 0.56px;
 }
-
+.div-grid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    max-width: 100% !important;
+    padding-left: 75px;
+}
 .latest-blog .blog-box .entry-content .entry-footer {
     border-top: 1px solid #e6e6e6;
     padding-top: 8px;
     margin-top: 15px;
+}
+.div-da-imagem{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 100% !important;
+}
+.div-imgsuporte{
+    margin-top: -30px;
+    max-width: 65% !important;
+    margin-left: 40px;
 }
 
 .latest-blog .blog-box .entry-content .entry-footer>span {
@@ -3463,6 +3483,18 @@ span {
         margin-left: auto;
         margin-right: 0;
         padding-left: 45px;
+    }
+    .quadrado-branco {
+    height: 95px !important;
+    align-items: center !important;
+    justify-content: center !important;
+    }
+    .imglogo {
+    margin-top: -13px;
+    width: 55%;
+    }
+    .retangulo-roxo{
+    height: 100px;
     }
     .testimonial-section .testi-img-block .testi-nav div.testi-prev {
         margin-left: 14%;
