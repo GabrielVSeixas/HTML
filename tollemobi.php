@@ -589,10 +589,10 @@
 									<h6>Baixe já o App </h6>
 									<h3><b>Tolle Mobi</b></h3>
 								</div><!-- Section Header /- -->
-								<p>Brady Bunch the Brady Bunch that's the way we all became the Brady Bunch. Goodbye gray sky I hold you. I hold you.<br>
-								There's nothing can hold Me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long.</p>
-								<p>Brady Bunch. Goodbye gray sky I hold you. I hold you.<br>
-								There's nothing can hold Me when I hold you. Feels so right it cant be wrong. Rockin' and rollin' all week long.</p>
+								<p>Nossa empresa conta com um novo conceito de mobilidade urbana.</p> 
+								<p>Checamos as avaliações que nossos usuários dão aos nossos motoristas constantemente para que o passageiro possua a melhor experiencia possível com nosso App.</p>
+								<p>Os motoristas que não possuem uma boa avaliação são automaticamente suspensos da plataforma.</p>
+								<p>Venha conhecer nossa plataforma e utilize o serviço que for mais adequado para sua necessidade.</p>
 								<h5><b>Faça sua primeira corrida!</b></h5>
 								<a href="#"><img src="assets/images/play-store.png" alt="Play Store" /></a>
 								<a href="#"><img src="assets/images/app-store.png" alt="App Store" /></a>
@@ -645,16 +645,16 @@
 				<div class="container">
 					<!-- Section Header -->
 					<div class="section-header section-header-white">
-						<h6>Testimonials</h6>
-						<h3><b>Clients</b> Reviews</h3>
+						<h6>Relatos de </h6>
+						<h3><b>Nossos Clientes</b></h3>
 					</div><!-- Section Header /- -->
 					
 					<div class="testi-content-block">
 						<div id="testi-1">
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised alteration in some form, by injected humour, or randomised. .....</p>
+							<p>Aplicativo excelente! Fácil de usar e muito intuitivo. Recomento.</p>
 						</div>
 						<div id="testi-2">
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised alteration in some form, by injected humour, or randomised. .....</p>
+							<p>Serviço de ótima qualidae, motoristas muito profissionais e educados.</p>
 						</div>
 						<div id="testi-3">
 							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised alteration in some form, by injected humour, or randomised. .....</p>
@@ -670,32 +670,32 @@
 						<div class="testi-carousel owl-carousel">
 							<div data-position="0">
 								<a href="javascript:void(0);" data-test="1">
-									<img src="assets/images/testi-1.jpg" alt="testimonial" />
-									<h4>thomas gerome <span>Customer</span></h4>
+									<img src="assets\images\homemaleatorio.png" alt="testimonial" />
+									<h4>Antônio Cruz<span>Cliente Tolle Mobi</span></h4>
 								</a>
 							</div>
 							<div data-position="1">
 								<a href="javascript:void(0);" data-test="2">
-									<img src="assets/images/testi-2.jpg" alt="testimonial" />
-									<h4>thomas gerome <span>Customer</span></h4>
+									<img src="assets\images\Jeniffer.png" alt="testimonial" />
+									<h4>Jenifer<span>Cliente Tolle Mobi</span></h4>
 								</a>
 							</div>
 							<div data-position="2">
 								<a href="javascript:void(0);" data-test="3">
-									<img src="assets/images/testi-3.jpg" alt="testimonial" />
-									<h4>thomas gerome <span>Customer</span></h4>
+									<img src="assets\images\leodicaprio.png" alt="testimonial" />
+									<h4>Leonardo<span>Cliente Tolle Mobi</span></h4>
 								</a>
 							</div>
 							<div data-position="3">
 								<a href="javascript:void(0);" data-test="4">
-									<img src="assets/images/testi-1.jpg" alt="testimonial" />
-									<h4>thomas gerome <span>Customer</span></h4>
+									<img src="assets\images\Tony.png" alt="testimonial" />
+									<h4>Roberto Junior <span>Cliente Tolle Mobi</span></h4>
 								</a>
 							</div>
 							<div data-position="4">
 								<a href="javascript:void(0);" data-test="5">
-									<img src="assets/images/testi-2.jpg" alt="testimonial" />
-									<h4>thomas gerome <span>Customer</span></h4>
+									<img src="assets\images\Angelina.png" alt="testimonial" />
+									<h4>Angélica Julia <span>Cliente Tolle Mobi</span></h4>
 								</a>
 							</div>
 						</div>
