@@ -564,15 +564,16 @@
 			</div><!-- Choose Section /- -->
 			
 			<!-- callout Section -->
-			<div class="callout-section">
+			<div class="callout-section-02">
 				<!-- Container -->
 				<div class="container">
-					<div class="before">
-						<h3>Vá para onde quiser, quando quiser com o App <span>Tolle Mobi</span></h3>
+					<div class="callout-detail">
+						<h3>Vá para onde quiser, quando quiser com o App</span></h3>
+						<h3> <span>Tolle Mobi</span></h3>
 						<a href="#baixeja" title="Book Now">BAIXE AGORA</a>
 					</div>
 				</div><!-- Container /- -->
-			</div><!-- callout Section /- -->
+				</div><!-- callout Section /- -->
 			
 			<!-- App Counter Section -->
 			<div class="div-padding app-counter-section">
@@ -591,8 +592,8 @@
 								<p>Os motoristas que não possuem uma boa avaliação são automaticamente suspensos da plataforma.</p>
 								<p>Venha conhecer nossa plataforma e utilize o serviço que for mais adequado para sua necessidade.</p>
 								<h5><b>Faça sua primeira corrida!</b></h5>
-								<a href="#"><img src="assets/images/play-store.png" alt="Play Store" /></a>
-								<a href="#"><img src="assets/images/app-store.png" alt="App Store" /></a>
+								<a target="blank" href="https://play.google.com/store/apps/details?id=com.tolle.mobi"><img src="assets/images/play-store.png" alt="Play Store" /></a>
+								<a target="blank" href="#"><img src="assets/images/app-store.png" alt="App Store" /></a>
 							</div>
 						</div>
 						<div class="col-md-5">

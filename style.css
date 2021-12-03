@@ -1590,8 +1590,8 @@ span {
     position: relative;
 }
 
-.callout-section2 {
-    background-image: url("assets/images/motorista2.png");
+.callout-section-02 {
+    background-image: url("assets/images/map2.png");
     background-repeat: no-repeat;
     background-size: cover;
     padding-bottom: 82px;
@@ -1610,7 +1610,23 @@ span {
     top: 0;
 }
 
+.callout-section-02::before {
+    background-color: rgba(0, 0, 0, 0.85);
+    bottom: 0;
+    content: "";
+    display: inline-block;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
 .callout-section .callout-detail {
+    position: relative;
+    text-align: center;
+}
+
+.callout-section-02 .callout-detail {
     position: relative;
     text-align: center;
 }
@@ -1626,7 +1642,23 @@ span {
     text-transform: uppercase;
 }
 
+.callout-section-02 .callout-detail h3 {
+    color: #fff;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+    letter-spacing: 0.99px;
+    line-height: 1.4;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+}
+
 .callout-section .callout-detail h3>span {
+    color: #00CBDF;
+    font-style: italic;
+}
+
+.callout-section-02 .callout-detail h3>span {
     color: #00CBDF;
     font-style: italic;
 }
@@ -1640,7 +1672,23 @@ span {
     letter-spacing: 0.594px;
 }
 
+.callout-section-02 .callout-detail>h6 {
+    color: #00CBDF;
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 1.56;
+    letter-spacing: 0.594px;
+}
+
 .callout-section .callout-detail>h6>a {
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-decoration: none;
+}
+
+.callout-section-02 .callout-detail>h6>a {
     color: #fff;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
@@ -1664,7 +1712,29 @@ span {
     transition: all 1s ease 0s;
 }
 
+.callout-section-02 .callout-detail>a {
+    border: 2px solid #00CBDF;
+    color: #fff;
+    display: inline-block;
+    padding: 7px 27px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.462px;
+    border-radius: 5px;
+    margin-top: 26px;
+    -webkit-transition: all 1s ease 0s;
+    -moz-transition: all 1s ease 0s;
+    -o-transition: all 1s ease 0s;
+    transition: all 1s ease 0s;
+}
+
 .callout-section .callout-detail>a:hover {
+    background-color: #00CBDF;
+    border-color: transparent;
+}
+
+.callout-section-02 .callout-detail>a:hover {
     background-color: #00CBDF;
     border-color: transparent;
 }
