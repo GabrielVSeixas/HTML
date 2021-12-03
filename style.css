@@ -1455,12 +1455,12 @@ span {
 }
 
 .testimonial-section .testi-carousel .owl-item.active.center a>img {
-    border: 2px solid #f8c12c;
+    border: 2px solid #00CBDF;
     width: auto;
 }
 
 .testimonial-section .testi-carousel a>h4 {
-    color: #f8c12c;
+    color: #00CBDF;
     font-size: 13px;
     font-weight: bold;
     line-height: 1.846;
@@ -1489,7 +1489,7 @@ span {
 }
 
 .testimonial-section .testi-img-block .testi-nav div {
-    color: #f8c12c;
+    color: #00CBDF;
     font-size: 30px;
     cursor: pointer;
     line-height: 1;
@@ -5028,7 +5028,7 @@ input.contact-input {
 }
 
 .widget_info>p>i {
-    color: #f8c12c;
+    color: #00CBDF;
     margin-right: 7px;
 }
 

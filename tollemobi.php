@@ -654,16 +654,16 @@
 							<p>Aplicativo excelente! Fácil de usar e muito intuitivo. Recomento.</p>
 						</div>
 						<div id="testi-2">
-							<p>Serviço de ótima qualidae, motoristas muito profissionais e educados.</p>
+							<p>Serviço de ótima qualidade, motoristas muito profissionais e educados. </p>
 						</div>
 						<div id="testi-3">
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised alteration in some form, by injected humour, or randomised. .....</p>
+							<p>o acompanhamento das preferências de consumo garante a contribuição de um grupo importante na determinação do sistema de formação de quadros que corresponde às necessidades. O incentivo ao avanço tecnológico, assim como o novo modelo estrutural aqui preconizado representa uma abertura para a melhoria de alternativas às soluções ortodoxas.</p>
 						</div>
 						<div id="testi-4">
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised alteration in some form, by injected humour, or randomised. .....</p>
+							<p>o acompanhamento das preferências de consumo garante a contribuição de um grupo importante na determinação do sistema de formação de quadros que corresponde às necessidades. O incentivo ao avanço tecnológico, assim como o novo modelo estrutural aqui preconizado representa uma abertura para a melhoria de alternativas às soluções ortodoxas.</p>
 						</div>
 						<div id="testi-5">
-							<p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised alteration in some form, by injected humour, or randomised. .....</p>
+							<p> O cuidado em identificar pontos críticos no aumento do diálogo entre os diferentes setores produtivos representa uma abertura para a melhoria dos paradigmas corporativos. Por conseguinte, a crescente influência da mídia exige a precisão e a definição do retorno esperado a longo prazo.</p>
 						</div>
 					</div>
 					<div class="testi-img-block">
