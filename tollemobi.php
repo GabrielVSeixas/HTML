@@ -676,8 +676,8 @@
 							</div>
 							<div data-position="1">
 								<a href="javascript:void(0);" data-test="2">
-									<img src="assets\images\Jeniffer.png" alt="testimonial" />
-									<h4>Jenifer<span>Cliente Tolle Mobi</span></h4>
+									<img src="assets\images\nataliaporto.png" alt="testimonial" />
+									<h4>Natália Porto<span>Cliente Tolle Mobi</span></h4>
 								</a>
 							</div>
 							<div data-position="2">
