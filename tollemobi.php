@@ -87,9 +87,7 @@
 							<li><a class="nav-link" title="Contact" href="#contato">Contato</a></li>
 						</ul>
 					</div>
-					<div class="menu-search">
-						<a href="javascript:void(0);" data-toggle="collapse" data-target="#search-box" class="search collapsed" title="Search"><i class="icon icon-Search sr-ic-open"></i><i class="fa fa-close sr-ic-close"></i></a>
-					</div>
+					
 					<div id="loginpanel-1" class="desktop-hide">
 						<div class="right toggle" id="toggle-1">
 							<a id="slideit-1" class="slideit" href="#slidepanel"><i class="fo-icons fa fa-inbox"></i></a>
@@ -146,7 +144,7 @@
 									data-paddingright="[0,0,0,0]"
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
-									style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 28px; font-weight: 700; color: #ffffff; letter-spacing: 2.4px;font-family:playfairdisplay;text-transform:uppercase;">Serviço rápido e <span>Confiavel!</span> 
+									style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 28px; font-weight: 700; color: #ffffff; letter-spacing: 2.4px;font-family:playfairdisplay;text-transform:uppercase;">Serviço rápido e <span>Confiável!</span> 
 								</div>	
 							</li>
 						</ul>
@@ -569,10 +567,9 @@
 			<div class="callout-section">
 				<!-- Container -->
 				<div class="container">
-					<div class="callout-detail">
-						<h3>the great  cab offer <span>save $100</span> available now! Luxury car </h3>
-						<h6>CALL US : <a href="tel:18001234567">1800 123 4567</a></h6>
-						<a href="#" title="Book Now">BAIXE AGORA</a>
+					<div class="before">
+						<h3>Vá para onde quiser, quando quiser com o App <span>Tolle Mobi</span></h3>
+						<a href="#baixeja" title="Book Now">BAIXE AGORA</a>
 					</div>
 				</div><!-- Container /- -->
 			</div><!-- callout Section /- -->
@@ -583,11 +580,11 @@
 				<div class="container">
 					<div class="row justify-content-end">
 						<div class="col-md-5">
-							<div class="mobile-app">
+							<div class="mobile-app" id="baixeja">
 								<!-- Section Header -->
-								<div class="section-header section-header-left">
-									<h6>Baixe já o App </h6>
-									<h3><b>Tolle Mobi</b></h3>
+								<div class="section-header section-header-left" >
+									<h6>Baixe já o App </h6 >
+									<h3><b>Tolle Mobi</b></h3 >
 								</div><!-- Section Header /- -->
 								<p>Nossa empresa conta com um novo conceito de mobilidade urbana.</p> 
 								<p>Checamos as avaliações que nossos usuários dão aos nossos motoristas constantemente para que o passageiro possua a melhor experiencia possível com nosso App.</p>
@@ -683,7 +680,7 @@
 							<div data-position="2">
 								<a href="javascript:void(0);" data-test="3">
 									<img src="assets\images\leodicaprio.png" alt="testimonial" />
-									<h4>Leonardo<span>Cliente Tolle Mobi</span></h4>
+									<h4>Leonardo de Capri<span>Motorista Tolle Mobi</span></h4>
 								</a>
 							</div>
 							<div data-position="3">
@@ -767,11 +764,8 @@
 							<h3 class="widget-title">Sobre Nós</h3>
 							<p>Lorem Ipsum is simply dummy text of the had a printing and typesetting industry. Ipsum hasbeen the industry's printing and type seting the industry's printing and ting industry.</p>
 							<ul>
-								<li><a href="#" title="Facebook"><i class="fa fa-facebook"></i></a></li>
-								<li><a href="#" title="Twitter"><i class="fa fa-twitter"></i></a></li>
-								<li><a href="#" title="Google+"><i class="fa fa-google-plus"></i></a></li>
-								<li><a href="#" title="Instagram"><i class="fa fa-instagram"></i></a></li>
-								<li><a href="#" title="Linkedin"><i class="fa fa-linkedin"></i></a></li>
+								<li><a target="blank" href="https://m.facebook.com/tollemobi" title="Facebook"><i class="fa fa-facebook"></i></a></li>
+								<li><a target="blank" href="https://www.instagram.com/tolle_mobi/" title="Instagram"><i class="fa fa-instagram"></i></a></li>
 							</ul>
 						</aside><!-- Widget : About /- -->
 					</div>
