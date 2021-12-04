@@ -764,6 +764,16 @@
 							
 							
 					</div>
+					<div class="col-lg-3 col-md-6">
+						<!-- Widget : Info -->
+						<aside class="widget widget_info"id="contato">
+							<h3 class="widget-title">Baixe o apicativo</h3>
+							<p></i><img class= "icone-vantagem3" src="assets\images\passageiro1.png"><a target="blank" href="https://play.google.com/store/apps/details?id=com.tolle.mobi">Passageiro</a></p>
+							<p></i><img class= "icone-vantagem3" src="assets\images\motoristaapp.png"><a target="blank" href="https://play.google.com/store/apps/details?id=com.tolle.mobi.motorista">Motorista</a></p>
+
+							
+							
+					</div>
 				</div><!-- Row /- -->
 			</div><!-- Container /- -->
 		</div><!-- Footer Widget /- -->
