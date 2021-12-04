@@ -2978,7 +2978,7 @@ span {
 
 .choose-slide-content h3 {
     color: #222;
-    font-size: 18px;
+    font-size: 24px;
     font-family: 'Playfair Display', serif;
     font-weight: bold;
     text-transform: uppercase;
@@ -3009,10 +3009,16 @@ span {
 }
 
 .choose-slide-content p {
-    font-size: 13px;
+    font-size: 18px;
     color: #888;
     line-height: 1.846;
 }
+
+.icone-vantagem {
+    height: 24px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    }
 
 .choose-slide-content .laguage-detail {
     display: inline-block;
