@@ -45,12 +45,7 @@
 </head>
 
 <body data-offset="200" data-spy="scroll" data-target=".ownavigation">
-	<!-- Loader -->
-	<div id="site-loader" class="load-complete">
-		<div class="loader">
-			<div class="line-scale"><div></div><div></div><div></div><div></div><div></div></div>
-		</div>
-	</div><!-- Loader /- -->
+
 		
 	<!-- Header Section -->
 	<div class="header_s header-fix header_s1">
@@ -90,7 +85,6 @@
 					
 					<div id="loginpanel-1" class="desktop-hide">
 						<div class="right toggle" id="toggle-1">
-							<a id="slideit-1" class="slideit" href="#slidepanel"><i class="fo-icons fa fa-inbox"></i></a>
 							<a id="closeit-1" class="closeit" href="#slidepanel"><i class="fo-icons fa fa-close"></i></a>
 						</div>
 					</div>
@@ -115,38 +109,16 @@
 	<div class="main-container">
 	
 		<main class="site-main">
+			
 		
 			<!-- Slider Section -->
 			<div class="slider-section" id="inicio">
 				<div id="taxi-1_wrapper" class="rev_slider_wrapper fullwidthbanner-container" data-alias="taxi-1" data-source="gallery" style="margin:0px auto;background:transparent;padding:0px;margin-top:0px;margin-bottom:0px;">
 					<!-- START REVOLUTION SLIDER 5.4.6 fullwidth mode -->
-					<div id="taxi-1" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.4.6">
+					<div id="taxi-1" class="rev_slider fullwidthabanner" data-version="5.4.6">
 						<ul>	
-							<!-- SLIDE  -->
-							<li data-index="rs-87" data-transition="cube-horizontal,cube,incube-horizontal,incube" data-slotamount="default,default,default,default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default,default,default,default" data-easeout="default,default,default,default" data-masterspeed="default,default,default,default" data-thumb="assets/images/taxi-1-100x50.jpg" data-rotate="0,0,0,0"  data-saveperformance="off" data-title="Slide">
-								<!-- MAIN IMAGE -->
-								<img src="assets/images/driving.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
-								<!-- LAYERS -->
-
-								<!-- LAYER NR. 1 -->
-								<div class="tp-caption silde-title" id="slide-87-layer-1" 
-									data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-									data-y="['middle','middle','middle','middle']" data-voffset="['-31','-30','-110','-130']" 
-									data-fontsize="['60','46','38','23']"
-									data-width="none"
-									data-height="none"
-									data-whitespace="nowrap"						 
-									data-type="text" 
-									data-responsive_offset="on" 
-									data-frames='[{"delay":10,"speed":1500,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.9;sY:0.9;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"auto:auto;","ease":"Power3.easeInOut"}]'
-									data-textAlign="['inherit','inherit','inherit','inherit']"
-									data-paddingtop="[0,0,0,0]"
-									data-paddingright="[0,0,0,0]"
-									data-paddingbottom="[0,0,0,0]"
-									data-paddingleft="[0,0,0,0]"
-									style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 28px; font-weight: 700; color: #ffffff; letter-spacing: 2.4px;font-family:playfairdisplay;text-transform:uppercase;">Serviço rápido e <span>Confiável!</span> 
-								</div>	
-							</li>
+								<img class="img_saturacao" src="assets/images/driving.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+								style="z-index: 5; white-space: nowrap; font-size: 60px; line-height: 28px; font-weight: 700; color: #ffffff; letter-spacing: 2.4px;font-family:playfairdisplay;text-transform:uppercase;">Serviço rápido e <span>Confiável!</span> 
 						</ul>
 					</div>
 				</div><!-- END REVOLUTION SLIDER -->
@@ -166,7 +138,6 @@
 								</div><!-- Section Header -->
 								<p><i>Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.</i></p>
 								<p>Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiamtorquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam</p>
-								<a href="#" title="Read More">Saiba Mais</a>
 							</div>
 						</div>
 						<div class="col-lg-6 about-img">
@@ -202,7 +173,7 @@
 							<div class="col-md-6 what-do-box">
 								<div class="icon-content-box">
 									<i><img src="assets/images/carro-icon.png" alt="Icon" /></style></style></i>
-									<b><h4>TM Classico</h4></B>
+									<b><h4>TM Clássico</h4></B>
 									<p>Serviço de mobilidade urbana rápido e seguro através do uso de carros populares.</p>
 								</div>
 							</div>
@@ -262,7 +233,7 @@
 													<p><img class= "icone-vantagem" src="assets\images\dinheiro.png"> Faça uma renda extra </p>
 													<p><img class= "icone-vantagem" src="assets\images\chefe.png"> Seja seu próprio chefe </p>
 												</div>
-												<div class="col-lg-5 choose-img">
+													<div class="col-lg-5 choose-img">
 													<img src="assets/images/motorista1.png" alt="Image" />
 												</div>
 											</div>
@@ -592,8 +563,8 @@
 								<p>Os motoristas que não possuem uma boa avaliação são automaticamente suspensos da plataforma.</p>
 								<p>Venha conhecer nossa plataforma e utilize o serviço que for mais adequado para sua necessidade.</p>
 								<h5><b>Faça sua primeira corrida!</b></h5>
-								<a target="blank" href="https://play.google.com/store/apps/details?id=com.tolle.mobi"><img src="assets/images/play-store.png" alt="Play Store" /></a>
-								<a target="blank" href="#"><img src="assets/images/app-store.png" alt="App Store" /></a>
+								<a target="blank" href="https://play.google.com/store/apps/details?id=com.tolle.mobi"><img src="assets/images/play-store.png" alt="Play Store" /></a><P><b>Passageiro</b></p>
+								<a target="blank" href="https://play.google.com/store/apps/details?id=com.tolle.mobi.motorista"><img src="assets/images/play-store.png" alt="Play Store" /></a></a><P><b>Motorista</b></p>
 							</div>
 						</div>
 						<div class="col-md-5">
@@ -603,7 +574,7 @@
 										<div class="counter-box">
 											<i><img src="assets/images/counter-icon-1.png" alt="Counter" /></i>
 											<span id="statistics_1_count-1" data-fact="1600"></span>
-											<h5>Motoristas cadastrados</h5>
+											<h5>Motoristas</h5>
 										</div>
 									</div>
 									<div class="col-6">
@@ -617,7 +588,7 @@
 										<div class="counter-box">
 											<i><img src="assets/images/counter-icon-3.png" alt="Counter" /></i>
 											<span id="statistics_1_count-3" data-fact="450"></span>
-											<h5>Corridas realizadas</h5>
+											<h5>Corridas</h5>
 										</div>
 									</div>
 									<div class="col-6">

@@ -54,9 +54,15 @@ body {
 }
 
 img {
-    max-width: 80%;
+    max-width: 100%;
     height: auto;
     color: #00AFC0;
+}
+
+.img_saturacao {
+    max-width: 100%;
+    height: auto;
+    filter: saturate(80%);
 }
 
 a {
@@ -212,52 +218,6 @@ span {
     -o-animation: loading 2s 1s infinite;
     animation: loading 2s 1s infinite;
 }
-
-@keyframes "loading" {
-    from {
-        left: 0;
-    }
-    to {
-        left: 100%;
-    }
-}
-
-@-moz-keyframes loading {
-    from {
-        left: 0;
-    }
-    to {
-        left: 100%;
-    }
-}
-
-@-webkit-keyframes "loading" {
-    from {
-        left: 0;
-    }
-    to {
-        left: 100%;
-    }
-}
-
-@-ms-keyframes "loading" {
-    from {
-        left: 0;
-    }
-    to {
-        left: 100%;
-    }
-}
-
-@-o-keyframes "loading" {
-    from {
-        left: 0;
-    }
-    to {
-        left: 100%;
-    }
-}
-
 
 /* ========================================================================== */
 
@@ -768,18 +728,6 @@ span {
     direction: ltr;
 }
 
-#taxi-1.rev_slider ul li::before {
-    background-color: rgba(0, 0, 0, 0.65) !important;
-    bottom: 0 !important;
-    content: "" !important;
-    left: 0 !important;
-    position: absolute !important;
-    right: 0 !important;
-    top: 0 !important;
-    visibility: visible !important;
-    z-index: 1;
-}
-
 #taxi-1 .silde-title span {
     color: #00C9DD;
 }
@@ -792,23 +740,6 @@ span {
 #taxi-1 .rev-btn.slide-btn:hover {
     background-color: #fff !important;
     color: #000 !important;
-}
-
-#taxi-1 .hesperiden .tp-bullet {
-    background: transparent;
-    border-radius: 50%;
-    width: 13px;
-    height: 13px;
-    border: 1px solid #f8c12c;
-}
-
-#taxi-1 .hesperiden .tp-bullet.selected {
-    background-color: #f8c12c;
-    border-color: transparent;
-}
-
-#taxi-1 .hesperiden .tp-bullet::after {
-    display: none;
 }
 
 #taxi-2.rev_slider ul li::before {
@@ -5645,7 +5576,6 @@ input.contact-input {
         padding: 0;
         min-width: 218px;
         max-width: 218px;
-        visibility: hidden\0/;
         transition: all 0.17s ease-in-out;
         -moz-transition: all 0.17s ease-in-out;
         -webkit-transition: all 0.17s ease-in-out;
